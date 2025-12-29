@@ -39,20 +39,23 @@ The goal was to simulate a **real-world business intelligence solution** rather 
 ## 📊 Dashboard Preview
 
 ### Overview Analysis Page
+---
 ![Dashboard Overview](Screenshot%202025-12-30%20011523.png)
 
-
+---
 
 ### Orders Analysis Page
+---
 ![Orders Analysis Page](Screenshot%202025-12-30%20015012.png)
-
+---
 
 ### Sub-Category Wise Analysis
-
+---
 ![Dashboard Filtered View](Screenshot%202025-12-30%20014955.png)
+---
 
-
-### Tooltips 
+### Tooltips
+---
 ![Sub-Category Analysis](Screenshot%202025-12-30%20015024.png)
 
 
